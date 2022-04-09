@@ -1,0 +1,11 @@
+.standard {
+    border: 5px solid rgb(5, 204, 194);
+    background-color: #c96931;
+    padding: 40px;
+    margin: 40px;
+    width: 350px;
+    height: 150px;
+}
+.alternate {
+    box-sizing: inherit;
+}
